@@ -1,3 +1,3 @@
 def parrot
-  put# Create method `parrot` that outputs a given phrase and
+  puts # Create method `parrot` that outputs a given phrase and
 # returns the phrase
